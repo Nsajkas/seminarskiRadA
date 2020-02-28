@@ -1,0 +1,30 @@
+logininfo:
+
+prvistudent|prvipass|s
+drugistudent|prvipass|s
+prviprofa|prvipass|p
+drugiprofa|prvipass|p
+prviadmin|prvipass|a
+drugiadmin|prvipass|a
+
+admini:
+adminko|adminko
+admenko|rumenko
+
+profesori:
+
+profa|smofa
+proki|zoki
+
+studenti:
+misa|pisa|19/1389
+misko|pisko|420/blzit
+
+indeksi:
+1,2,3,4
+A,B,C,D
+
+ispiti:
+
+seminarski A|2.2.2018|1|1
+semniarski B|2.3.2019|2|1,2
